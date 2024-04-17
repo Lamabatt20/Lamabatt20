@@ -1,7 +1,6 @@
 <h1 align="center"> Hi,👋 I'm Lama Batta </h1>
 
 ## Welcome to my GitHub profile!
-
 ## Connect with Me
 📫 Email :lamabatta2000@gmail.com <br>
 💼 LinkedIn www.linkedin.com/in/lama-shareef-926a1b2b8
