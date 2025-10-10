@@ -21,5 +21,5 @@ Computer Science @BZU
 
 ---------------------
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamabatt20&show_icons=true&locale=en&layout=compact" alt="lamabatt20" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamabatt20&show_icons=true&locale=en&layout=compact" alt="lamabatt20" /></p>
+
 
