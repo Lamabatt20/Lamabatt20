@@ -20,10 +20,6 @@ Computer Science @BZU
 <p align="left"> <a href="https://www.linkedin.com/in/lama-shareef-926a1b2b8" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ---------------------
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamabatt20&layout=compact&cache_seconds=10" 
-    alt="lamabatt20" 
-  />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamabatt20&show_icons=true&locale=en&layout=compact" alt="lamabatt20" /></p>
+
 
