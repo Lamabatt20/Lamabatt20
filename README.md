@@ -9,7 +9,7 @@ Computer Science @BZU
 ### Skills
 
 
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
@@ -111,9 +111,7 @@ Computer Science @BZU
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40" alt="Blender"/>
 </a>
 
-</p>
-
-
+</div>
 ### Socials
 
 <p align="left"> 
