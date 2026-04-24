@@ -112,6 +112,7 @@ Computer Science @BZU
 </a>
 
 </div>
+
 ### Socials
 
 <p align="left"> 
